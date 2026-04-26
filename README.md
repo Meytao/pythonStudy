@@ -3,6 +3,8 @@
 本仓库配套了一份从零开始的 Python 学习材料，覆盖基础知识、面向对象、并发编程等内容。你可以一边阅读下面梳理的知识大纲，一边运行仓库中的示例代码。
 
 ---
+欢迎访问我的博客：[Meytao](https://meytao.top)
+
 注：学习资料来源<[尚硅谷](https://space.bilibili.com/302417610)>
 
 视频：[点击跳转](https://www.bilibili.com/video/BV1tDsgzxECr/)
